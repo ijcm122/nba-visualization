@@ -24,10 +24,10 @@ https://rapidapi.com/theapiguy/api/free-nba?endpoint=apiendpoint_0c94f219-1d0f-4
 
 
 Rough Breakdown of Tasks:
-Decompose the problem
-Examine and learn about each API & write request loops to pull appropriate data from each API
-Run loops & Put data into DataFrame
-Clean and merge  data
-Visualize and Analyze Data
-Make Observations regarding the tendencies we see
-Create Presentation and Summary Documents and make Project accessible
+Decompose the problem.
+Examine and learn about each API & write request loops to pull appropriate data from each API.
+Run loops & Put data into DataFrame.
+Clean and merge  data.
+Visualize and Analyze Data.
+Make Observations regarding the tendencies we see.
+Create Presentation and Summary Documents and make the Project accessible.
