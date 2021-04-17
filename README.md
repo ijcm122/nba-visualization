@@ -7,7 +7,7 @@ Members: Kim Sommer, Howard Mayorga, Stephanie Rivas & Ian Castro
 
 Project Description and Outline: We decided to create interactive charts that will tell a story through data visualizations that will illustrate specific information regarding NBA, teams, players and stats, the illustrations that we are going to create will be on a dashboard in which will include a  interactive drop down list for teams and the player stats on a specific panel that is going provide the total points scored by players and season.
 
-We are goin to do first a interactive Bar chart (player, year, team), Plot bubble map per team with how many overlaying a market layer of how many playoff wins apperances
+We are goin to do first a interactive Bar chart (player, year, team), Plot bubble map per team with how many overlaying a market layer of how many playoff wins apperances.
 
 
 Research Questions: 
