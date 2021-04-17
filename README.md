@@ -5,7 +5,7 @@ Title: NBA Visualizations
 
 Members: Kim Sommer, Howard Mayorga, Stephanie Rivas & Ian Castro 
 
-Project Description and Outline: We decided to create interactive charts that will tell a story through data visualizations that will illustrate specific information regarding NBA, teams, players and stats.  
+Project Description and Outline: We decided to create interactive charts that will tell a story through data visualizations that will illustrate specific information regarding NBA, teams, players and stats.  The illustrations that we are going to create will be on a dashboard in which will include a  interactive drop down list for teams and the player stats on a specific panel that is going provide the total points scored by players and season.
 
 
 Research Questions: 
