@@ -1,0 +1,32 @@
+body {
+    padding-top: 30px;
+    background-color: #552583;
+    background-image:
+        linear-gradient(
+        to right, 
+        #FFDF9A,
+        #FDB927 75%,
+        #552583 75%
+    );      
+}
+
+.box {
+    background-color: #fefefe;
+    opacity: .5;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+}
+
+.footer { 
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* background-color: #fefefe; */
+    opacity: .5;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #fefefe;
+    text-align: justify;
+    text-justify:auto;
+}
