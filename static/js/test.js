@@ -2,16 +2,23 @@
 // var players_url = "https://free-nba.p.rapidapi.com/players?per_page=100&page=0"
 
 
-for (var i = 1; i < 4; i++) {
+for (var i = 1; i < 2; i++) {
     var stats_url = "https://free-nba.p.rapidapi.com/stats?seasons=2001&per_page=100&page="  + i
     
     //loop through API endpoint for each page
+    
     d3.json(stats_url, {
         headers: new Headers({
             "x-rapidapi-key": "38bab05df5msh928211553580d9cp181186jsne583ad5bd5cd",
             "x-rapidapi-host": "free-nba.p.rapidapi.com"
     }),
-    }).then(data => console.log(data));
+    }).then(data => {console.log(data);
+        var pts = data.data[99].game.id;
+        console.log(pts);    
+        // data.forEach(obj => 
+        //     console.log(obj.pts));
+        });
+
 };
 
 // d3.json(stats_url, {
