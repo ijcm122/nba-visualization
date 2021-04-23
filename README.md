@@ -1,12 +1,10 @@
-# Title: NBA Visualizations
+# A Look Back on Kobe Bryant's Career
 
 ## Project 2
 
 __Members:__ Kim Sommer, Howard Mayorga, Stephanie Rivas & Ian Castro 
 
-__Project Description and Outline:__ We decided to create interactive charts that will tell a story through data visualizations that will illustrate specific information regarding NBA, teams, players and stats, the illustrations that we are going to create will be on a dashboard in which will include a  interactive drop down list for teams and the player stats on a specific panel that is going provide the total points scored by players and season.
-
-We are going to do first a interactive Bar chart (player, year, team), Plot bubble map per team with how many overlaying a market layer of how many playoff wins apperances.
+__Project Description and Outline:__ Our dashboard will tell the story of Kobe Bryant's career by giving the audience a view into his various stats over the years he played in the NBA. We will feature an interactive scatter plot that will show points scored, assists, blocks and other statistics by year. The user will choose the desired stat to view, and the plot will update with that information. The user can then select the scatter plot points to view data about the specific game being plotted to see the numbers up close. A map will finish the visualization of Kobe's career with plot points showing the cities in which he played games along with an infographic that gives the average of Kobe's points scored in those cities.
 
 __Metrics: __
 1. Our visualizations will include a Python Flask–powered API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.). 
