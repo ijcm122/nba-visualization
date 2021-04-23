@@ -1,10 +1,12 @@
-# A Look Back on Kobe Bryant's Career
+# A Tale of Two Basketball Legends
 
 ## Project 2
 
 __Members:__ Kim Sommer, Howard Mayorga, Stephanie Rivas & Ian Castro 
 
-__Project Description and Outline:__ Our dashboard will tell the story of Kobe Bryant's career by giving the audience a view into his various stats over the years he played in the NBA. We will feature an interactive scatter plot that will show points scored, assists, blocks and other statistics by year. The user will choose the desired stat to view, and the plot will update with that information. The user can then select the scatter plot points to view data about the specific game being plotted to see the numbers up close. A map will finish the visualization of Kobe's career with plot points showing the cities in which he played games along with an infographic that gives the average of Kobe's points scored in those cities.
+__Project Description and Outline:__ Kobe Bryant and LeBron James are both considered NBA legends. They were both drafted out of high school and went on to win numerous championships for their respective teams. But did one live up to the high expectations placed on him more than the other? We will examine this question by comparing the statistics from the two players' first twenty years in the league. We want to see whether either player improved from year one to year 20, who improved more and in what areas (i.e., points scord, rebounds, assists) and whose overall stats were more impressive. We'll create an interactive chart showing the two players' stats per year. The user will be able to select which stat to view, and the line chart will update for both players on the same plot area. The user will be able to see the trajectory of each player's stats per year starting with each player's respective first year. 
+
+Our static charts will compare both players' total summary data for all 20 years in various areas such as points scored, rebounds, championships won, and more. Completely subjective to the project team's sensibilities, we'll decide whether the data show a more impressive career for Kobe or LeBron. And then we'll award the GOAT status to Jordan anyway, just because.
 
 __Metrics: __
 1. Our visualizations will include a Python Flask–powered API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.). 
