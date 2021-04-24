@@ -17,4 +17,6 @@ var trace1 = {
     type: 'scatter'
   };
   var data = [trace1, trace2, trace3];
-  Plotly.newPlot('myDiv', data);
+  Plotly.newPlot('plot', data);
+
+
