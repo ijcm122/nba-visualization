@@ -1,0 +1,5 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+/static/data/nba_test filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> f0069c33ec59ce08991c00ba522deab3545b8d98
